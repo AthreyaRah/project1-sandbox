@@ -1,0 +1,2 @@
+"realfile.txt": No such file or directory (os error 2)
+"thisdoesnotexist.txt": No such file or directory (os error 2)
