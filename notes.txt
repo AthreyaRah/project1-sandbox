@@ -1,5 +1,1 @@
-This is a file for git example
-here you go
-
-this is new
-new line
+This is updated notes.txt for git diff understanding
