@@ -1,3 +1,3 @@
-This is updated notes.txt for git diff understanding
+This line changed on main instead
 This is another line added to notes.txt
 line added on test-branch
