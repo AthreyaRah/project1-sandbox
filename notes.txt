@@ -4,3 +4,4 @@ good commit 1
 good commit 2
 good commit 3
 BUG: this line breaks things
+ minor change to notes.txt
