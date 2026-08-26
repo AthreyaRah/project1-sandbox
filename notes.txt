@@ -2,4 +2,3 @@ This line is changed on conflict-branch
 This is another line changed on conflict-branch added to notes.txt
 line added on test-branch
 Adding this line to test rebase vs merge
-One more line added for reset understanding
