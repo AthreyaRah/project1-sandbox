@@ -1,4 +1,2 @@
-This line is changed on conflict-branch
-This is another line changed on conflict-branch added to notes.txt
-line added on test-branch
-Adding this line to test rebase vs merge
+This is updated notes.txt for git diff understanding
+This is another line added to notes.txt
