@@ -1,2 +1,3 @@
 This is updated notes.txt for git diff understanding
 This is another line added to notes.txt
+good commit 1
