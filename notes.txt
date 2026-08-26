@@ -3,3 +3,4 @@ This is another line added to notes.txt
 good commit 1
 good commit 2
 good commit 3
+BUG: this line breaks things
